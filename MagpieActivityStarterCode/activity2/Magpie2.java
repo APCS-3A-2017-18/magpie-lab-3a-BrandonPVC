@@ -118,5 +118,5 @@ private String getRandomResponse()
 }
 }
 
-Sent from Mail for Windows 10
+
 
